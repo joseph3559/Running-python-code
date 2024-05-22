@@ -350,6 +350,9 @@ progress through this phase!
 
 ***
 
+## Test Passed
+![screenshot](image.png)
+
 ## Resources
 
 - [Python print() function](https://www.w3schools.com/python/ref_func_print.asp)
